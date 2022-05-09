@@ -1,4 +1,4 @@
-# Inventory-management-system
+# Prediction of Stock Material at an enterprise Store(Inventory-management)
 Efficient Inventory Management System
 Inventory management is a systematic approach to sourcing, storing, and selling inventory - both raw materials (components) and finished goods (products). In business terms, inventory management means the right stock, at the right levels, in the right place, at the right time, and at the right cost as well as price.
 Poor inventory management can cost you time, money and your business. It is among the top reasons why small businesses fail.
